@@ -20,8 +20,8 @@ FetchContent_Declare(
 
 FetchContent_MakeAvailable(MinHook)
 set(BUILD_SHARED_LIBS OFF CACHE BOOL "" FORCE)
-FetchContent_MakeAvailable(xxHash)
 set(XXHASH_BUILD_XXHSUM OFF CACHE BOOL "" FORCE)
+FetchContent_MakeAvailable(xxHash)
 
 add_library(${PROJECT_NAME} SHARED
         src/AsiPlugin.cpp

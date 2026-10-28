@@ -39,7 +39,6 @@ for item in data["texts"]:
         text = text[1:]
 
     chars.update(char for char in text if ord(char) >= 0x20)
-print(f"共收集到 {len(chars)} 个字符")
 
 font_files = list(font_dir.glob("unifont-*.hex"))
 
