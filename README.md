@@ -2,7 +2,7 @@
 
 ## 兼容性
 
-  - 9.6 免费版
+  - 9.6 Free
   - 10.3 NoCD
   - 11.44
   
@@ -13,6 +13,9 @@
 
 ## 使用方式
 
+本汉化插件需要通过 [ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) 加载。
+
+前往 [Releases](https://github.com/meltnoexit/GTA2SC/releases/latest) 页面下载 `GTA2SC-<版本>.zip` ，解压至游戏目录即可。
 
 
 ## 参与人员

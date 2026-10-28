@@ -6,6 +6,7 @@
       "displayName": "VS2026(Win32)",
       "generator": "Visual Studio 18 2026",
       "architecture": "Win32",
+      "binaryDir": "${sourceDir}/build/${presetName}",
       "vendor": {
         "jetbrains.com/clion": {
           "toolchain": "Visual Studio"
@@ -17,12 +18,18 @@
     {
       "name": "debug",
       "configurePreset": "VS2026-Win32",
-      "configuration": "Debug"
+      "configuration": "Debug",
+      "targets": [
+        "GTA2SC-AsiPlugin"
+      ]
     },
     {
       "name": "release",
       "configurePreset": "VS2026-Win32",
-      "configuration": "Release"
+      "configuration": "Release",
+      "targets": [
+        "GTA2SC-AsiPlugin"
+      ]
     }
   ]
 }

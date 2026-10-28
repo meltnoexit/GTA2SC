@@ -17,3 +17,5 @@ CMakeUserPresets.json
 
 # CLion
 cmake-build-*
+
+build
