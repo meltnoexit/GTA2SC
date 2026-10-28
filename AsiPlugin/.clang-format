@@ -1,0 +1,27 @@
+BasedOnStyle: Microsoft
+
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+
+IndentCaseLabels: true
+
+IndentAccessModifiers: true
+
+NamespaceIndentation: All
+
+BreakBeforeBraces: Attach
+
+FixNamespaceComments: false
+
+InsertNewlineAtEOF: true
+
+SortIncludes: CaseInsensitive
+IncludeBlocks: Regroup
+IncludeCategories:
+  - Regex: '^<windows\.h>$'
+    Priority: 1
+  - Regex: '^<'
+    Priority: 2
+  - Regex: '^"'
+    Priority: 3

@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[codz]
+
+# Virtual environments
+.venv/
+
+# Build outputs
+build/
+
+# Ruff
+.ruff_cache/
+
+# IDE
+.idea/
+.vscode/
+
+# Local font files
+/font/*
+!/font/.gitkeep

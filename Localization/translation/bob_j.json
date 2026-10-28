@@ -1,0 +1,809 @@
+{
+  "language": "J",
+  "texts": [
+    {
+      "key": "3d",
+      "text": "3D 音效"
+    },
+    {
+      "key": "3dtxt",
+      "text": "已启用 3D 音效"
+    },
+    {
+      "key": "alpha",
+      "text": "Alpha"
+    },
+    {
+      "key": "attack",
+      "text": "攻击"
+    },
+    {
+      "key": "audio",
+      "text": "音频"
+    },
+    {
+      "key": "back",
+      "text": "后退"
+    },
+    {
+      "key": "baud",
+      "text": "波特率"
+    },
+    {
+      "key": "baud1",
+      "text": "14 400 波特"
+    },
+    {
+      "key": "baud2",
+      "text": "19 200 波特"
+    },
+    {
+      "key": "baud3",
+      "text": "38 400 波特"
+    },
+    {
+      "key": "baud4",
+      "text": "57 600 波特"
+    },
+    {
+      "key": "cdvol",
+      "text": "音乐音量"
+    },
+    {
+      "key": "com1",
+      "text": "COM 1"
+    },
+    {
+      "key": "com2",
+      "text": "COM 2"
+    },
+    {
+      "key": "com3",
+      "text": "COM 3"
+    },
+    {
+      "key": "com4",
+      "text": "COM 4"
+    },
+    {
+      "key": "condata",
+      "text": "协议连接数据"
+    },
+    {
+      "key": "contcur",
+      "text": "当前操控"
+    },
+    {
+      "key": "contdef",
+      "text": "默认操控"
+    },
+    {
+      "key": "control",
+      "text": "操控"
+    },
+    {
+      "key": "df1",
+      "text": "F1"
+    },
+    {
+      "key": "dispmod",
+      "text": "显示模式"
+    },
+    {
+      "key": "domovie",
+      "text": "播放影片"
+    },
+    {
+      "key": "dusk",
+      "text": "黄昏"
+    },
+    {
+      "key": "english",
+      "text": "英语"
+    },
+    {
+      "key": "enter",
+      "text": "上车/下车"
+    },
+    {
+      "key": "expl",
+      "text": "显示选项"
+    },
+    {
+      "key": "expltxt",
+      "text": "弹出得分"
+    },
+    {
+      "key": "forward",
+      "text": "前进"
+    },
+    {
+      "key": "framrat",
+      "text": "帧率控制"
+    },
+    {
+      "key": "french",
+      "text": "法语"
+    },
+    {
+      "key": "fullscr",
+      "text": "全屏"
+    },
+    {
+      "key": "gamma",
+      "text": "伽马值"
+    },
+    {
+      "key": "german",
+      "text": "德语"
+    },
+    {
+      "key": "gonet",
+      "text": "开始联机游戏"
+    },
+    {
+      "key": "gta2",
+      "text": "GTA2"
+    },
+    {
+      "key": "italian",
+      "text": "意大利语"
+    },
+    {
+      "key": "japenes",
+      "text": "日语"
+    },
+    {
+      "key": "jbtn",
+      "text": "手柄按钮 %d"
+    },
+    {
+      "key": "jdown",
+      "text": "手柄 下"
+    },
+    {
+      "key": "jleft",
+      "text": "手柄 左"
+    },
+    {
+      "key": "joy",
+      "text": "游戏控制器"
+    },
+    {
+      "key": "jright",
+      "text": "手柄 右"
+    },
+    {
+      "key": "jump",
+      "text": "手刹/跳跃"
+    },
+    {
+      "key": "jup",
+      "text": "手柄 上"
+    },
+    {
+      "key": "k0",
+      "text": "0"
+    },
+    {
+      "key": "k1",
+      "text": "1"
+    },
+    {
+      "key": "k2",
+      "text": "2"
+    },
+    {
+      "key": "k3",
+      "text": "3"
+    },
+    {
+      "key": "k4",
+      "text": "4"
+    },
+    {
+      "key": "k5",
+      "text": "5"
+    },
+    {
+      "key": "k6",
+      "text": "6"
+    },
+    {
+      "key": "k7",
+      "text": "7"
+    },
+    {
+      "key": "k8",
+      "text": "8"
+    },
+    {
+      "key": "k9",
+      "text": "9"
+    },
+    {
+      "key": "k:",
+      "text": ":"
+    },
+    {
+      "key": "k_",
+      "text": "_"
+    },
+    {
+      "key": "ka",
+      "text": "A"
+    },
+    {
+      "key": "kapostr",
+      "text": "'"
+    },
+    {
+      "key": "kapps",
+      "text": "MENU"
+    },
+    {
+      "key": "kat",
+      "text": "@"
+    },
+    {
+      "key": "kax",
+      "text": "Ax"
+    },
+    {
+      "key": "kb",
+      "text": "B"
+    },
+    {
+      "key": "kback",
+      "text": "Backspace"
+    },
+    {
+      "key": "kbacksl",
+      "text": "\\"
+    },
+    {
+      "key": "kc",
+      "text": "C"
+    },
+    {
+      "key": "kcapita",
+      "text": "Caps Lock"
+    },
+    {
+      "key": "kcircum",
+      "text": "Circumflex"
+    },
+    {
+      "key": "kcomma",
+      "text": ","
+    },
+    {
+      "key": "kconv",
+      "text": "Convert"
+    },
+    {
+      "key": "kd",
+      "text": "D"
+    },
+    {
+      "key": "kdelete",
+      "text": "Delete"
+    },
+    {
+      "key": "kdown",
+      "text": "下方向键"
+    },
+    {
+      "key": "ke",
+      "text": "E"
+    },
+    {
+      "key": "kend",
+      "text": "End"
+    },
+    {
+      "key": "kequals",
+      "text": "="
+    },
+    {
+      "key": "kesc",
+      "text": "Esc"
+    },
+    {
+      "key": "keyclas",
+      "text": "经典键位"
+    },
+    {
+      "key": "keydef",
+      "text": "默认键位"
+    },
+    {
+      "key": "kf",
+      "text": "F"
+    },
+    {
+      "key": "kf10",
+      "text": "F10"
+    },
+    {
+      "key": "kf11",
+      "text": "F11"
+    },
+    {
+      "key": "kf12",
+      "text": "F12"
+    },
+    {
+      "key": "kf13",
+      "text": "F13"
+    },
+    {
+      "key": "kf14",
+      "text": "F14"
+    },
+    {
+      "key": "kf15",
+      "text": "F15"
+    },
+    {
+      "key": "kf2",
+      "text": "F2"
+    },
+    {
+      "key": "kf3",
+      "text": "F3"
+    },
+    {
+      "key": "kf4",
+      "text": "F4"
+    },
+    {
+      "key": "kf5",
+      "text": "F5"
+    },
+    {
+      "key": "kf6",
+      "text": "F6"
+    },
+    {
+      "key": "kf7",
+      "text": "F7"
+    },
+    {
+      "key": "kf8",
+      "text": "F8"
+    },
+    {
+      "key": "kf9",
+      "text": "F9"
+    },
+    {
+      "key": "kg",
+      "text": "G"
+    },
+    {
+      "key": "kgrave",
+      "text": "`"
+    },
+    {
+      "key": "kh",
+      "text": "H"
+    },
+    {
+      "key": "khome",
+      "text": "Home"
+    },
+    {
+      "key": "ki",
+      "text": "I"
+    },
+    {
+      "key": "kinsert",
+      "text": "Insert"
+    },
+    {
+      "key": "kj",
+      "text": "J"
+    },
+    {
+      "key": "kk",
+      "text": "K"
+    },
+    {
+      "key": "kkana",
+      "text": "Kana"
+    },
+    {
+      "key": "kkanji",
+      "text": "Kanji"
+    },
+    {
+      "key": "kl",
+      "text": "L"
+    },
+    {
+      "key": "klalt",
+      "text": "左 Alt"
+    },
+    {
+      "key": "klbrack",
+      "text": "("
+    },
+    {
+      "key": "klctrl",
+      "text": "左 Ctrl"
+    },
+    {
+      "key": "kleft",
+      "text": "左方向键"
+    },
+    {
+      "key": "klshift",
+      "text": "左 Shift"
+    },
+    {
+      "key": "klwin",
+      "text": "左 Win"
+    },
+    {
+      "key": "km",
+      "text": "M"
+    },
+    {
+      "key": "kminus",
+      "text": "-"
+    },
+    {
+      "key": "kn",
+      "text": "N"
+    },
+    {
+      "key": "knext",
+      "text": "Page Down"
+    },
+    {
+      "key": "knoconv",
+      "text": "No Convert"
+    },
+    {
+      "key": "knp*",
+      "text": "* (数字小键盘)"
+    },
+    {
+      "key": "knp+",
+      "text": "+ (数字小键盘)"
+    },
+    {
+      "key": "knp,",
+      "text": ", (数字小键盘)"
+    },
+    {
+      "key": "knp-",
+      "text": "- (数字小键盘)"
+    },
+    {
+      "key": "knp.",
+      "text": ". (数字小键盘)"
+    },
+    {
+      "key": "knp/",
+      "text": "/ (数字小键盘)"
+    },
+    {
+      "key": "knp0",
+      "text": "0 (数字小键盘)"
+    },
+    {
+      "key": "knp1",
+      "text": "1 (数字小键盘)"
+    },
+    {
+      "key": "knp2",
+      "text": "2 (数字小键盘)"
+    },
+    {
+      "key": "knp3",
+      "text": "3 (数字小键盘)"
+    },
+    {
+      "key": "knp4",
+      "text": "4 (数字小键盘)"
+    },
+    {
+      "key": "knp5",
+      "text": "5 (数字小键盘)"
+    },
+    {
+      "key": "knp6",
+      "text": "6 (数字小键盘)"
+    },
+    {
+      "key": "knp7",
+      "text": "7 (数字小键盘)"
+    },
+    {
+      "key": "knp8",
+      "text": "8 (数字小键盘)"
+    },
+    {
+      "key": "knp9",
+      "text": "9 (数字小键盘)"
+    },
+    {
+      "key": "knp=",
+      "text": "= (数字小键盘)"
+    },
+    {
+      "key": "knpent",
+      "text": "Enter（数字小键盘）"
+    },
+    {
+      "key": "knumlck",
+      "text": "Num Lock"
+    },
+    {
+      "key": "ko",
+      "text": "O"
+    },
+    {
+      "key": "kp",
+      "text": "P"
+    },
+    {
+      "key": "kperiod",
+      "text": "."
+    },
+    {
+      "key": "kprior",
+      "text": "Page Up"
+    },
+    {
+      "key": "kq",
+      "text": "Q"
+    },
+    {
+      "key": "kr",
+      "text": "R"
+    },
+    {
+      "key": "kralt",
+      "text": "右 Alt"
+    },
+    {
+      "key": "krbrack",
+      "text": ")"
+    },
+    {
+      "key": "krctrl",
+      "text": "右 Ctrl"
+    },
+    {
+      "key": "kreturn",
+      "text": "回车键"
+    },
+    {
+      "key": "kright",
+      "text": "右方向键"
+    },
+    {
+      "key": "krshift",
+      "text": "右 Shift"
+    },
+    {
+      "key": "krwin",
+      "text": "右 Win"
+    },
+    {
+      "key": "ks",
+      "text": "S"
+    },
+    {
+      "key": "kscroll",
+      "text": "Scroll Lock"
+    },
+    {
+      "key": "ksemico",
+      "text": ";"
+    },
+    {
+      "key": "kslash",
+      "text": "/"
+    },
+    {
+      "key": "kspace",
+      "text": "空格键"
+    },
+    {
+      "key": "kstop",
+      "text": "Stop"
+    },
+    {
+      "key": "ksysrq",
+      "text": "DSTSRQ"
+    },
+    {
+      "key": "kt",
+      "text": "T"
+    },
+    {
+      "key": "ktab",
+      "text": "TAB"
+    },
+    {
+      "key": "ku",
+      "text": "U"
+    },
+    {
+      "key": "kunlab",
+      "text": "Unlabeled"
+    },
+    {
+      "key": "kup",
+      "text": "上方向键"
+    },
+    {
+      "key": "kv",
+      "text": "V"
+    },
+    {
+      "key": "kw",
+      "text": "W"
+    },
+    {
+      "key": "kx",
+      "text": "X"
+    },
+    {
+      "key": "ky",
+      "text": "Y"
+    },
+    {
+      "key": "kyen",
+      "text": "￥"
+    },
+    {
+      "key": "kz",
+      "text": "Z"
+    },
+    {
+      "key": "lang",
+      "text": "语言"
+    },
+    {
+      "key": "left",
+      "text": "向左"
+    },
+    {
+      "key": "light",
+      "text": "光照效果"
+    },
+    {
+      "key": "maxfram",
+      "text": "帧率限制"
+    },
+    {
+      "key": "minfram",
+      "text": "最低帧率"
+    },
+    {
+      "key": "modem",
+      "text": "调制解调器名称"
+    },
+    {
+      "key": "multi",
+      "text": "多显示器"
+    },
+    {
+      "key": "network",
+      "text": "网络"
+    },
+    {
+      "key": "next",
+      "text": "下一件武器"
+    },
+    {
+      "key": "nocards",
+      "text": "未找到合适的显卡。"
+    },
+    {
+      "key": "noon",
+      "text": "正午"
+    },
+    {
+      "key": "prev",
+      "text": "上一件武器"
+    },
+    {
+      "key": "proavai",
+      "text": "可用协议"
+    },
+    {
+      "key": "quit",
+      "text": "退出"
+    },
+    {
+      "key": "recog",
+      "text": "特殊兼容选项"
+    },
+    {
+      "key": "recog2",
+      "text": "遇到显示问题？"
+    },
+    {
+      "key": "right",
+      "text": "向右"
+    },
+    {
+      "key": "screen",
+      "text": "渲染模式"
+    },
+    {
+      "key": "selcom",
+      "text": "选择 COM 端口"
+    },
+    {
+      "key": "sfxvol",
+      "text": "音效音量"
+    },
+    {
+      "key": "showplr",
+      "text": "显示玩家名称"
+    },
+    {
+      "key": "sound",
+      "text": "音频"
+    },
+    {
+      "key": "spanish",
+      "text": "西班牙语"
+    },
+    {
+      "key": "spare",
+      "text": "Spare"
+    },
+    {
+      "key": "spec2",
+      "text": "特殊操作 2"
+    },
+    {
+      "key": "special",
+      "text": "特殊操作"
+    },
+    {
+      "key": "tcpip",
+      "text": "TCP/IP 地址"
+    },
+    {
+      "key": "tele",
+      "text": "电话号码"
+    },
+    {
+      "key": "time",
+      "text": "时段"
+    },
+    {
+      "key": "txtsped",
+      "text": "文本速度: %d"
+    },
+    {
+      "key": "version",
+      "text": "检测到的 DirectX 版本过低。GTA2 需要 DirectX 6.1 或更高版本。"
+    },
+    {
+      "key": "video",
+      "text": "视频"
+    },
+    {
+      "key": "volume",
+      "text": "音量"
+    },
+    {
+      "key": "welcome",
+      "text": "欢迎"
+    },
+    {
+      "key": "window",
+      "text": "窗口模式"
+    }
+  ]
+}

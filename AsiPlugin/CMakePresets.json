@@ -1,0 +1,28 @@
+{
+  "version": 6,
+  "configurePresets": [
+    {
+      "name": "VS2026-Win32",
+      "displayName": "VS2026(Win32)",
+      "generator": "Visual Studio 18 2026",
+      "architecture": "Win32",
+      "vendor": {
+        "jetbrains.com/clion": {
+          "toolchain": "Visual Studio"
+        }
+      }
+    }
+  ],
+  "buildPresets": [
+    {
+      "name": "debug",
+      "configurePreset": "VS2026-Win32",
+      "configuration": "Debug"
+    },
+    {
+      "name": "release",
+      "configurePreset": "VS2026-Win32",
+      "configuration": "Release"
+    }
+  ]
+}
