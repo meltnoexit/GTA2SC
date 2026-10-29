@@ -23,9 +23,7 @@ for path in sorted(Path("translation").glob("*.json")):
             text.encode("gbk")
         except UnicodeEncodeError as e:
             char = text[e.start]
-            raise ValueError(
-                f"{path}: {item['key']!r} 包含 GBK 不支持的字符：{char!r} (U+{ord(char):04X})"
-            ) from e
+            raise ValueError(f"{path}: {item['key']!r} 包含 GBK 不支持的字符：{char!r} (U+{ord(char):04X})") from e
 
 with (translation_dir / "j.json").open("r", encoding="utf-8") as f:
     data = json.load(f)
@@ -94,7 +92,5 @@ for char in sorted(chars, key=ord):
 
 build_dir.mkdir(parents=True, exist_ok=True)
 KanjiDatFile(kidx=kidx, kbit=kbit).save_to_file(build_dir / "kanji.dat")
-GxtFile.import_from_json(translation_dir / "bob_j.json").save_to_file(
-    build_dir / "bob_j.gxt"
-)
+GxtFile.import_from_json(translation_dir / "bob_j.json").save_to_file(build_dir / "bob_j.gxt")
 GxtFile.import_from_json(translation_dir / "j.json").save_to_file(build_dir / "j.gxt")

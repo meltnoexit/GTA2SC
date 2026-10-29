@@ -1,5 +1,4 @@
 import json
-import logging
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -20,8 +19,6 @@ from construct import (
     Terminated,
     this,
 )
-
-log = logging.getLogger(__name__)
 
 
 @dataclass
